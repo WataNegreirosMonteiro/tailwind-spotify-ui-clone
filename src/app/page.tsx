@@ -44,14 +44,42 @@ export default function Home() {
           <h1 className="font-bold text-3xl mt-10"> Good Afternoon</h1>
         
           <div className="grid grid-cols-3 gap-4 mt-4">
-            <a href="" className="bg-white/10 hover:bg-white/20 transition-colors rounded overflow-hidden flex items-center gap-4">
+            <a href="" className="group bg-white/5 hover:bg-white/10 transition-colors rounded overflow-hidden flex items-center gap-4">
               <img src="https://cdns-images.dzcdn.net/images/cover/cc5a009092776bda408530f5660f51cd/264x264.jpg" alt="album ..." width={104} height={80}/>
               <strong>Black Sabbath</strong>
-              <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover::visible">
+              <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
-            
+            <a href="" className="group bg-white/5 hover:bg-white/10 transition-colors rounded overflow-hidden flex items-center gap-4">
+              <img src="https://cdns-images.dzcdn.net/images/cover/cc5a009092776bda408530f5660f51cd/264x264.jpg" alt="album ..." width={104} height={80}/>
+              <strong>Black Sabbath</strong>
+              <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
+                <Play />
+              </button>
+            </a>
+            <a href="" className="group bg-white/5 hover:bg-white/10 transition-colors rounded overflow-hidden flex items-center gap-4">
+              <img src="https://cdns-images.dzcdn.net/images/cover/cc5a009092776bda408530f5660f51cd/264x264.jpg" alt="album ..." width={104} height={80}/>
+              <strong>Black Sabbath</strong>
+              <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
+                <Play />
+              </button>
+            </a>
+            <a href="" className="group bg-white/5 hover:bg-white/10 transition-colors rounded overflow-hidden flex items-center gap-4">
+              <img src="https://cdns-images.dzcdn.net/images/cover/cc5a009092776bda408530f5660f51cd/264x264.jpg" alt="album ..." width={104} height={80}/>
+              <strong>Black Sabbath</strong>
+              <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
+                <Play />
+              </button>
+            </a>
+          </div>
+          <h2 className="font-bold text-2xl mt-10"> Made for Wata Negreiros Monteiro</h2>
+          <div className="grid grid-cols-5 gap-4 mt-4">
+            <a href="" className="flex flex-col gap-2 bg-white/5 hover:bg-white/10 p-3 rounded-md">
+              <img src="https://cdns-images.dzcdn.net/images/cover/cc5a009092776bda408530f5660f51cd/264x264.jpg" alt="album ..." className="w-full" width={104} height={80}/>
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-500">Zezé Dicamargio</span>
+            </a>
           </div>
         </main>
       </div>
