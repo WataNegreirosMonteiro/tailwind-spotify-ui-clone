@@ -30,13 +30,11 @@ Spotify UI Clone - Using Tailwind
 </p>
 
 ![App Screenshot](https://user-images.githubusercontent.com/90472705/232779563-36bab8a6-c4e8-4385-8ea8-efdc9ec908e0.png)
+
 <p align="center">
-
-<a href="https://bancointer-redesign.netlify.app" target="_blank">
-
-[![SpotifyDemo](https://user-images.githubusercontent.com/90472705/232781698-704c8888-430d-47f4-aa9e-48d1fb9daadc.png)](google.com)
-</a>
-
+  <a href="https://tailwind-spotify-ui-clone.vercel.app/" target="_blank">
+    DEMO
+  </a>
 </p>
 
 ## :rocket: Technologies
