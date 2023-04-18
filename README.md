@@ -39,7 +39,7 @@ Spotify UI Clone - Using Tailwind
 
 ## :rocket: Technologies
 
-This project was developed live at [twitch.tv/lukemoralestv](https://www.twitch.tv/lukemoralestv) with the following technologies:
+This project was developed with the technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript][ts]
