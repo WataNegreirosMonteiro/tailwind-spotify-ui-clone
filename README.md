@@ -9,7 +9,7 @@ Spotify UI Clone - Using Tailwind
 <p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/WataNegreirosMonteiro/tailwind-spotify-ui-clone.svg">
-  <a href="https://github.com/lukemorales/bancointer/commits/master">
+  <a href="https://github.com/WataNegreirosMonteiro">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WataNegreirosMonteiro/tailwind-spotify-ui-clone.svg">
   </a>
 
