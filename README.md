@@ -48,7 +48,7 @@ This project was developed with the technologies:
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/bancointer/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/WataNegreirosMonteiro/tailwind-spotify-ui-clone/blob/master/LICENSE) for more information.
 
 ---
 
